@@ -1,0 +1,31 @@
+export default [{
+  value: 'TEXT',
+  label: 'customerFields.fieldType.text'
+}, {
+  value: 'CHECKBOX',
+  label: 'customerFields.fieldType.checkbox'
+}, {
+  value: 'SELECT',
+  label: 'customerFields.fieldType.select'
+}, {
+  value: 'DATE',
+  label: 'customerFields.fieldType.date'
+}, {
+  value: 'TEXTAREA',
+  label: 'customerFields.fieldType.textarea'
+}, {
+  value: 'EMAIL',
+  label: 'customerFields.fieldType.email'
+}, {
+  value: 'ADDRESS',
+  label: 'customerFields.fieldType.address'
+}, {
+  value: 'PHONE',
+  label: 'customerFields.fieldType.phone'
+}, {
+  value: 'TIMEZONE',
+  label: 'customerFields.fieldType.timezone'
+}, {
+  value: 'FILES',
+  label: 'customerFields.fieldType.upload'
+}]

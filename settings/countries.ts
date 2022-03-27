@@ -1,0 +1,697 @@
+export default [{
+  'code': 'AR',
+  'flag': 'AR.svg',
+  'name': 'global.country.argentina',
+  'phoneCountry': '54',
+  'active': true
+}, {
+  'code': 'AT',
+  'flag': 'AT.svg',
+  'name': 'global.country.austria',
+  'phoneCountry': '43',
+  'active': true
+}, {
+  'code': 'BE',
+  'flag': 'BE.svg',
+  'name': 'global.country.belgium',
+  'phoneCountry': '32',
+  'active': true
+}, {
+  'code': 'BR',
+  'flag': 'BR.svg',
+  'name': 'global.country.brazil',
+  'phoneCountry': '55',
+  'active': true
+}, {
+  'code': 'BG',
+  'flag': 'BG.svg',
+  'name': 'global.country.bulgaria',
+  'phoneCountry': '359',
+  'active': true
+}, {
+  'code': 'CA',
+  'flag': 'CA.svg',
+  'name': 'global.country.canada',
+  'phoneCountry': '1',
+  'active': true
+}, {
+  'code': 'CN',
+  'flag': 'CN.svg',
+  'name': 'global.country.china',
+  'phoneCountry': '86',
+  'active': true
+}, {
+  'code': 'HR',
+  'flag': 'HR.svg',
+  'name': 'global.country.croatia',
+  'phoneCountry': '385',
+  'active': true
+}, {
+  'code': 'CZ',
+  'flag': 'CZ.svg',
+  'name': 'global.country.czechRepublic',
+  'phoneCountry': '420',
+  'active': true
+}, {
+  'code': 'DK',
+  'flag': 'DK.svg',
+  'name': 'global.country.denmark',
+  'phoneCountry': '45',
+  'active': true
+}, {
+  'code': 'EG',
+  'flag': 'EG.svg',
+  'name': 'global.country.egypt',
+  'phoneCountry': '20',
+  'active': true
+}, {
+  'code': 'ES',
+  'flag': 'ES.svg',
+  'name': 'global.country.spain',
+  'phoneCountry': '34',
+  'active': true
+}, {
+  'code': 'FI',
+  'flag': 'FI.svg',
+  'name': 'global.country.finland',
+  'phoneCountry': '358',
+  'active': true
+}, {
+  'code': 'FR',
+  'flag': 'FR.svg',
+  'name': 'global.country.france',
+  'phoneCountry': '33',
+  'active': true
+}, {
+  'code': 'DE',
+  'flag': 'DE.svg',
+  'name': 'global.country.germany',
+  'phoneCountry': '49',
+  'active': true
+}, {
+  'code': 'GR',
+  'flag': 'GR.svg',
+  'name': 'global.country.greece',
+  'phoneCountry': '30',
+  'active': true
+}, {
+  'code': 'HK',
+  'flag': 'HK.svg',
+  'name': 'global.country.hongKong',
+  'phoneCountry': '852',
+  'active': true
+}, {
+  'code': 'HU',
+  'flag': 'HU.svg',
+  'name': 'global.country.hungary',
+  'phoneCountry': '36',
+  'active': true
+}, {
+  'code': 'IN',
+  'flag': 'IN.svg',
+  'name': 'global.country.india',
+  'phoneCountry': '91',
+  'active': true
+}, {
+  'code': 'ID',
+  'flag': 'ID.svg',
+  'name': 'global.country.indonesia',
+  'phoneCountry': '62',
+  'active': true
+}, {
+  'code': 'IL',
+  'flag': 'IL.svg',
+  'name': 'global.country.israel',
+  'phoneCountry': '972',
+  'active': true
+}, {
+  'code': 'IT',
+  'flag': 'IT.svg',
+  'name': 'global.country.italy',
+  'phoneCountry': '39',
+  'active': true
+}, {
+  'code': 'JP',
+  'flag': 'JP.svg',
+  'name': 'global.country.japan',
+  'phoneCountry': '81',
+  'active': true
+}, {
+  'code': 'MY',
+  'flag': 'MY.svg',
+  'name': 'global.country.malaysia',
+  'phoneCountry': '60',
+  'active': true
+}, {
+  'code': 'NL',
+  'flag': 'NL.svg',
+  'name': 'global.country.netherlands',
+  'phoneCountry': '31',
+  'active': true
+}, {
+  'code': 'NC',
+  'flag': 'NC.svg',
+  'name': 'global.country.newCaledonia',
+  'phoneCountry': '687',
+  'active': true
+}, {
+  'code': 'NO',
+  'flag': 'NO.svg',
+  'name': 'global.country.norway',
+  'phoneCountry': '47',
+  'active': true
+}, {
+  'code': 'PL',
+  'flag': 'PL.svg',
+  'name': 'global.country.poland',
+  'phoneCountry': '48',
+  'active': true
+}, {
+  'code': 'PT',
+  'flag': 'PT.svg',
+  'name': 'global.country.portugal',
+  'phoneCountry': '351',
+  'active': true
+}, {
+  'code': 'PF',
+  'flag': 'PF.svg',
+  'name': 'global.country.polynesia',
+  'phoneCountry': '689',
+  'active': true
+}, {
+  'code': 'RO',
+  'flag': 'RO.svg',
+  'name': 'global.country.romania',
+  'phoneCountry': '40',
+  'active': true
+}, {
+  'code': 'RE',
+  'flag': 'RE.svg',
+  'name': 'global.country.reunion',
+  'phoneCountry': '262',
+  'active': true
+}, {
+  'code': 'RU',
+  'flag': 'RU.svg',
+  'name': 'global.country.russia',
+  'phoneCountry': '7',
+  'active': true
+}, {
+  'code': 'SG',
+  'flag': 'SG.svg',
+  'name': 'global.country.singapore',
+  'phoneCountry': '65',
+  'active': true
+}, {
+  'code': 'SK',
+  'flag': 'SK.svg',
+  'name': 'global.country.slovakia',
+  'phoneCountry': '421',
+  'active': true
+}, {
+  'code': 'KR',
+  'flag': 'KR.svg',
+  'name': 'global.country.southKorea',
+  'phoneCountry': '82',
+  'active': true
+}, {
+  'code': 'SE',
+  'flag': 'SE.svg',
+  'name': 'global.country.sweden',
+  'phoneCountry': '46',
+  'active': true
+}, {
+  'code': 'CH',
+  'flag': 'CH.svg',
+  'name': 'global.country.switzerland',
+  'phoneCountry': '41',
+  'active': true
+}, {
+  'code': 'TW',
+  'flag': 'TW.svg',
+  'name': 'global.country.taiwan',
+  'phoneCountry': '886',
+  'active': true
+}, {
+  'code': 'TH',
+  'flag': 'TH.svg',
+  'name': 'global.country.thailand',
+  'phoneCountry': '66',
+  'active': true
+}, {
+  'code': 'TR',
+  'flag': 'TR.svg',
+  'name': 'global.country.turkey',
+  'phoneCountry': '90',
+  'active': true
+}, {
+  'code': 'SA',
+  'flag': 'SA.svg',
+  'name': 'global.country.saudiArabia',
+  'phoneCountry': '966',
+  'active': true
+}, {
+  'code': 'GB',
+  'flag': 'GB.svg',
+  'name': 'global.country.greatBritain',
+  'phoneCountry': '44',
+  'active': true
+}, {
+  'code': 'US',
+  'flag': 'US.svg',
+  'name': 'global.country.usa',
+  'phoneCountry': '1',
+  'active': true
+}, {
+  'code': 'VN',
+  'flag': 'VN.svg',
+  'name': 'global.country.vietnam',
+  'phoneCountry': '84',
+  'active': true
+}, {
+  'code': 'EE',
+  'flag': 'EE.svg',
+  'name': 'global.country.estonia',
+  'phoneCountry': '372',
+  'active': true
+}, {
+  'code': 'MO',
+  'flag': 'MO.svg',
+  'name': 'global.country.macau',
+  'phoneCountry': '853',
+  'active': true
+}, {
+  'code': 'PH',
+  'flag': 'PH.svg',
+  'name': 'global.country.philippines',
+  'phoneCountry': '63',
+  'active': true
+}, {
+  'code': 'IE',
+  'flag': 'IE.svg',
+  'name': 'global.country.ireland',
+  'phoneCountry': '353',
+  'active': true
+}, {
+  'code': 'MT',
+  'flag': 'MT.svg',
+  'name': 'global.country.malta',
+  'phoneCountry': '356',
+  'active': true
+}, {
+  'code': 'AL',
+  'flag': 'AL.svg',
+  'name': 'global.country.albania',
+  'phoneCountry': '355',
+  'active': true
+}, {
+  'code': 'DZ',
+  'flag': 'DZ.svg',
+  'name': 'global.country.algeria',
+  'phoneCountry': '213',
+  'active': true
+}, {
+  'code': 'AM',
+  'flag': 'AM.svg',
+  'name': 'global.country.armenia',
+  'phoneCountry': '374',
+  'active': true
+}, {
+  'code': 'AU',
+  'flag': 'AU.svg',
+  'name': 'global.country.australia',
+  'phoneCountry': '61',
+  'active': true
+}, {
+  'code': 'AZ',
+  'flag': 'AZ.svg',
+  'name': 'global.country.azerbaijan',
+  'phoneCountry': '994',
+  'active': true
+}, {
+  'code': 'BH',
+  'flag': 'BH.svg',
+  'name': 'global.country.bahrain',
+  'phoneCountry': '973',
+  'active': true
+}, {
+  'code': 'BY',
+  'flag': 'BY.svg',
+  'name': 'global.country.belarus',
+  'phoneCountry': '375',
+  'active': true
+}, {
+  'code': 'BO',
+  'flag': 'BO.svg',
+  'name': 'global.country.bolivia',
+  'phoneCountry': '591',
+  'active': true
+}, {
+  'code': 'BA',
+  'flag': 'BA.svg',
+  'name': 'global.country.bosniaHerzegovina',
+  'phoneCountry': '387',
+  'active': true
+}, {
+  'code': 'KH',
+  'flag': 'KH.svg',
+  'name': 'global.country.cambodia',
+  'phoneCountry': '855',
+  'active': true
+}, {
+  'code': 'CL',
+  'flag': 'CL.svg',
+  'name': 'global.country.chile',
+  'phoneCountry': '56',
+  'active': true
+}, {
+  'code': 'CO',
+  'flag': 'CO.svg',
+  'name': 'global.country.colombia',
+  'phoneCountry': '57',
+  'active': true
+}, {
+  'code': 'CR',
+  'flag': 'CR.svg',
+  'name': 'global.country.costaRica',
+  'phoneCountry': '506',
+  'active': true
+}, {
+  'code': 'CU',
+  'flag': 'CU.svg',
+  'name': 'global.country.cuba',
+  'phoneCountry': '53',
+  'active': true
+}, {
+  'code': 'CY',
+  'flag': 'CY.svg',
+  'name': 'global.country.cyprus',
+  'phoneCountry': '357',
+  'active': true
+}, {
+  'code': 'EC',
+  'flag': 'EC.svg',
+  'name': 'global.country.ecuador',
+  'phoneCountry': '593',
+  'active': true
+}, {
+  'code': 'SV',
+  'flag': 'SV.svg',
+  'name': 'global.country.elSalvador',
+  'phoneCountry': '503',
+  'active': true
+}, {
+  'code': 'GI',
+  'flag': 'GI.svg',
+  'name': 'global.country.gibraltar',
+  'phoneCountry': '350',
+  'active': true
+}, {
+  'code': 'GT',
+  'flag': 'GT.svg',
+  'name': 'global.country.guatemala',
+  'phoneCountry': '502',
+  'active': true
+}, {
+  'code': 'HT',
+  'flag': 'HT.svg',
+  'name': 'global.country.haiti',
+  'phoneCountry': '509',
+  'active': true
+}, {
+  'code': 'DO',
+  'flag': 'DO.svg',
+  'name': 'global.country.dominicanRebublic',
+  'phoneCountry': '1',
+  'active': true
+}, {
+  'code': 'HN',
+  'flag': 'HN.svg',
+  'name': 'global.country.honduras',
+  'phoneCountry': '504',
+  'active': true
+}, {
+  'code': 'IS',
+  'flag': 'IS.svg',
+  'name': 'global.country.iceland',
+  'phoneCountry': '354',
+  'active': true
+}, {
+  'code': 'JM',
+  'flag': 'JM.svg',
+  'name': 'global.country.jamaica',
+  'phoneCountry': '1-876',
+  'active': true
+}, {
+  'code': 'XK',
+  'flag': 'XK.svg',
+  'name': 'global.country.kosovo',
+  'phoneCountry': '383',
+  'active': true
+}, {
+  'code': 'KW',
+  'flag': 'KW.svg',
+  'name': 'global.country.kuwait',
+  'phoneCountry': '965',
+  'active': true
+}, {
+  'code': 'LA',
+  'flag': 'LA.svg',
+  'name': 'global.country.laos',
+  'phoneCountry': '856',
+  'active': true
+}, {
+  'code': 'LV',
+  'flag': 'LV.svg',
+  'name': 'global.country.latvia',
+  'phoneCountry': '371',
+  'active': true
+}, {
+  'code': 'LB',
+  'flag': 'LB.svg',
+  'name': 'global.country.lebanon',
+  'phoneCountry': '961',
+  'active': true
+}, {
+  'code': 'LY',
+  'flag': 'LY.svg',
+  'name': 'global.country.libya',
+  'phoneCountry': '218',
+  'active': true
+}, {
+  'code': 'LI',
+  'flag': 'LI.svg',
+  'name': 'global.country.liechtenstein',
+  'phoneCountry': '423',
+  'active': true
+}, {
+  'code': 'LT',
+  'flag': 'LT.svg',
+  'name': 'global.country.lithuania',
+  'phoneCountry': '370',
+  'active': true
+}, {
+  'code': 'LU',
+  'flag': 'LU.svg',
+  'name': 'global.country.luxembourg',
+  'phoneCountry': '352',
+  'active': true
+}, {
+  'code': 'MK',
+  'flag': 'MK.svg',
+  'name': 'global.country.macedonia',
+  'phoneCountry': '389',
+  'active': true
+}, {
+  'code': 'MU',
+  'flag': 'MU.svg',
+  'name': 'global.country.mauritius',
+  'phoneCountry': '230',
+  'active': true
+}, {
+  'code': 'MX',
+  'flag': 'MX.svg',
+  'name': 'global.country.mexico',
+  'phoneCountry': '52',
+  'active': true
+}, {
+  'code': 'MC',
+  'flag': 'MC.svg',
+  'name': 'global.country.monaco',
+  'phoneCountry': '377',
+  'active': true
+}, {
+  'code': 'ME',
+  'flag': 'ME.svg',
+  'name': 'global.country.montenegro',
+  'phoneCountry': '382',
+  'active': true
+}, {
+  'code': 'MA',
+  'flag': 'MA.svg',
+  'name': 'global.country.morocco',
+  'phoneCountry': '212',
+  'active': true
+}, {
+  'code': 'MM',
+  'flag': 'MM.svg',
+  'name': 'global.country.myanmar',
+  'phoneCountry': '95',
+  'active': true
+}, {
+  'code': 'AE',
+  'flag': 'AE.svg',
+  'name': 'global.country.unitedArabEmirates',
+  'phoneCountry': '971',
+  'active': true
+}, {
+  'code': 'NZ',
+  'flag': 'NZ.svg',
+  'name': 'global.country.newZealand',
+  'phoneCountry': '64',
+  'active': true
+}, {
+  'code': 'NI',
+  'flag': 'NI.svg',
+  'name': 'global.country.nicaragua',
+  'phoneCountry': '505',
+  'active': true
+}, {
+  'code': 'OM',
+  'flag': 'OM.svg',
+  'name': 'global.country.oman',
+  'phoneCountry': '968',
+  'active': true
+}, {
+  'code': 'PK',
+  'flag': 'PK.svg',
+  'name': 'global.country.pakistan',
+  'phoneCountry': '92',
+  'active': true
+}, {
+  'code': 'PA',
+  'flag': 'PA.svg',
+  'name': 'global.country.panama',
+  'phoneCountry': '507',
+  'active': true
+}, {
+  'code': 'PY',
+  'flag': 'PY.svg',
+  'name': 'global.country.paraguay',
+  'phoneCountry': '595',
+  'active': true
+}, {
+  'code': 'PE',
+  'flag': 'PE.svg',
+  'name': 'global.country.peru',
+  'phoneCountry': '51',
+  'active': true
+}, {
+  'code': 'QA',
+  'flag': 'QA.svg',
+  'name': 'global.country.qatar',
+  'phoneCountry': '974',
+  'active': true
+}, {
+  'code': 'RS',
+  'flag': 'RS.svg',
+  'name': 'global.country.serbia',
+  'phoneCountry': '381',
+  'active': true
+}, {
+  'code': 'SI',
+  'flag': 'SI.svg',
+  'name': 'global.country.slovenia',
+  'phoneCountry': '386',
+  'active': true
+}, {
+  'code': 'LK',
+  'flag': 'LK.svg',
+  'name': 'global.country.sriLanka',
+  'phoneCountry': '94',
+  'active': true
+}, {
+  'code': 'TN',
+  'flag': 'TN.svg',
+  'name': 'global.country.tunisia',
+  'phoneCountry': '216',
+  'active': true
+}, {
+  'code': 'UA',
+  'flag': 'UA.svg',
+  'name': 'global.country.ukraine',
+  'phoneCountry': '380',
+  'active': true
+}, {
+  'code': 'UY',
+  'flag': 'UY.svg',
+  'name': 'global.country.uruguay',
+  'phoneCountry': '598',
+  'active': true
+}, {
+  'code': 'VE',
+  'flag': 'VE.svg',
+  'name': 'global.country.venezuela',
+  'phoneCountry': '58',
+  'active': true
+}, {
+  'code': 'YE',
+  'flag': 'YE.svg',
+  'name': 'global.country.yemen',
+  'phoneCountry': '967',
+  'active': true
+}, {
+  'code': 'GP',
+  'flag': 'FR.svg',
+  'name': 'global.country.guadeloupe',
+  'phoneCountry': '590',
+  'active': true
+}, {
+  'code': 'MD',
+  'flag': 'MD.svg',
+  'name': 'global.country.moldova',
+  'phoneCountry': '373',
+  'active': true
+}, {
+  'code': 'BZ',
+  'flag': 'BZ.svg',
+  'name': 'global.country.belize',
+  'phoneCountry': '501',
+  'active': true
+}, {
+  'code': 'GY',
+  'flag': 'GY.svg',
+  'name': 'global.country.guyana',
+  'phoneCountry': '592',
+  'active': true
+}, {
+  'code': 'GF',
+  'flag': 'FR.svg',
+  'name': 'global.country.frenchGuiana',
+  'phoneCountry': '590',
+  'active': true
+}, {
+  'code': 'MQ',
+  'flag': 'FR.svg',
+  'name': 'global.country.martinique',
+  'phoneCountry': '596',
+  'active': true
+}, {
+  'code': 'SR',
+  'flag': 'SR.svg',
+  'name': 'global.country.suriname',
+  'phoneCountry': '597',
+  'active': true
+}, {
+  'code': 'KP',
+  'flag': 'KP.svg',
+  'name': 'global.country.northKorea',
+  'phoneCountry': '850',
+  'active': true
+}, {
+  'code': 'GE',
+  'flag': 'GE.svg',
+  'name': 'global.country.georgia',
+  'phoneCountry': '995',
+  'active': true
+}]

@@ -1,0 +1,130 @@
+.message {
+  position: relative;
+  border-radius: 3px;
+  overflow: hidden;
+  max-height: 0;
+  padding: 0 15px;
+  margin: 0;
+  opacity: 0;
+  color: #505a5e;
+  transition: all 0.3s;
+}
+
+.message.active {
+  max-height: 500px;
+  opacity: 1;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+
+.message.active.noMargin {
+  margin: 0;
+}
+
+.message a:not(.ta-btn) {
+  text-decoration: underline;
+  color: #505a5e;
+}
+
+.messageCloseBtn {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 13px;
+  font-size: 16px;
+  color: #505a5e;
+  cursor: pointer;
+}
+
+.messageIcon {
+  position: absolute;
+  top: 50%;
+  left: 17px;
+  transform: translateY(-50%) translateZ(0);
+}
+
+.messageTitle {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.messageTitle i {
+  margin-right: 8px;
+}
+
+.messageContent {
+  font-size: 13px;
+  font-weight: 300;
+  margin-top: 8px;
+  color: #505a5e;
+  line-height: 18px;
+}
+
+.messageContent.noLabel {
+  padding-left: 25px;
+  margin-top: 0;
+}
+
+.messageContent p {
+  margin-bottom: 8px;
+}
+
+.message.typeSuccess { 
+  background: rgba(118, 152, 81, 0.15); 
+}
+
+.message.typeSuccess .messageTitle { 
+  color: #769851; 
+}
+
+.message.typeSuccess .messageContent { 
+  color: #769851; 
+}
+
+.message.typeWarning {
+   background: rgba(235, 182, 93, 0.15); 
+  }
+
+.message.typeWarning .messageTitle { 
+  color: #505a5e; 
+}
+
+.message.typeError { 
+  background: rgba(203, 59, 67, 0.15); 
+}
+
+.message.typeError .messageTitle { 
+  color: #cb3b43; 
+}
+
+.message.typeInfo { 
+  background: rgba(80, 90, 94, 0.15); 
+}
+
+.message.typeInfo .messageTitle,
+.message.typeInfo .messageContent { 
+  color: #505a5e; 
+}
+
+.message.big {
+  text-align: center;
+}
+
+.message.big .messageTitle i {
+  font-size: 48px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+.message.active.small {
+  padding: 10px 8px;
+}
+
+.message.active.small .messageIcon {
+  left: 12px;
+}
+
+/* TODO: @yanko check where this is use it and fix it */
+.message.right{
+  margin-left: -100px;
+}

@@ -1,0 +1,8 @@
+.ta-form-control-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.ta-form-group.focused .ta-form-control-wrapper {
+  box-shadow: 0 5px 10px 0 rgba(56, 95, 135, 0.15);
+}

@@ -1,0 +1,45 @@
+.migrationOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 99999;
+  background: -moz-linear-gradient(top, #385f87 0%, #1d3247 100%);
+  background: -webkit-linear-gradient(top, #385f87 0%, #1d3247 100%);
+  background: linear-gradient(to bottom, #385f87 0%, #1d3247 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( endColorstr='#1d3247', startColorstr='#385f87', GradientType=0);
+  visibility: hidden;
+  opacity: 0;
+  transition: all 0.8s;
+}
+
+.active {
+  visibility: visible;
+  opacity: 1;
+}
+
+.migrationOverlay__message {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  font-weight: 20px;
+  text-align: center;
+  line-height: 20px;
+}
+
+.migrationOverlay__message .ta-spinner {
+  color: #fff;
+  position: static;
+  top: 0;
+  left: 0;
+  transform: none;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.ta-login-email-resend-btn {
+  margin-right: 25px;
+}

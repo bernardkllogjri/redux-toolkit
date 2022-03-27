@@ -1,0 +1,38 @@
+.loader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 998;
+  background: rgba(255,255,255,0.6);
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.5s;
+  transition-delay: 0.2s;
+}
+
+.loader.noBackground {
+  background: none;
+  z-index: 1;
+}
+
+.loader.active {
+  opacity: 1;
+  visibility: visible;
+  transition-delay: 0s;
+}
+
+.loader.noBackground.active {
+  transition: all 0s;
+  transition-delay: 0s;
+}
+
+.loader img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 80px;
+  border-radius: 3px;
+}

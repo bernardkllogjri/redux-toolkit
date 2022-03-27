@@ -1,0 +1,15 @@
+.logo {
+  display: block;
+  width: 120px;
+  height: 120px;
+  line-height: 120px;
+  text-align: center;
+  background: #cb3b43;
+}
+
+.logo img {
+  width: 30px;
+  vertical-align: middle;
+  font-size: 11px;
+  color: #fff;
+}
